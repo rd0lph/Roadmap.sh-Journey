@@ -9,3 +9,7 @@ In this document, I will share my experiences and insights as I follow the [road
 
 ## Words
 This roadmap journey is an ongoing process, and I am excited to continue learning and growing. Thank you for following along, and I hope this inspires you to start your own journey!
+
+## Milestone
+A. Frontend  
+- (Single Page CV)[https://roadmap.sh/projects/single-page-cv]
